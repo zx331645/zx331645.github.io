@@ -40,6 +40,10 @@ img{
 	margin-right: auto;
 	width: 100%;
   }
+  .sidebar {
+	  width: 25%;
+	  float: left;
+  }
 /*h2{
 	margin: 0.2em;
 }*/
