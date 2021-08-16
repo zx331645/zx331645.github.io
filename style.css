@@ -1,5 +1,5 @@
 * {
-	font-family: "Lucida Grande", Arial, serif;
+	font-family: "Lucida Grande", "Lucida Sans", sans-serif;
 	text-align: left;
 }
 a{
@@ -43,6 +43,10 @@ img{
   .sidebar {
 	  width: 25%;
 	  float: left;
+  }
+  .link {
+	  font-size: 14px;
+	  font-family: Arial, Helvetica, sans-serif;
   }
 /*h2{
 	margin: 0.2em;
